@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{p5nM:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),l=t("+ZDr"),r=t.n(l);n.default=function(){return o.a.createElement("div",null,o.a.createElement("p",null,"Hello world from my second Gatsby page"),o.a.createElement(r.a,{to:"/"},"back home"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-ac2b53bfce94ccc722bc.js.map
